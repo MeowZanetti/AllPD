@@ -1,0 +1,1 @@
+/todo Здравия желаю, %nameU%, %rank% %depart%.*показав жетон №[%token%].
