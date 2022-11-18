@@ -1,3 +1,4 @@
+[mpd]
 host=f0610240.xsph.ru
 ssl=http
 cf=https://vk.me/join/AJQ1d2aQ5CPL8EuJM9p/l4Yt
@@ -5,3 +6,4 @@ help=https://vk.com/@abshelper-faq-po-rabote-s-binderom-allpd
 last_version=2
 last_msg=Исправление багов\nTest123
 ach=Да
+upd=0
